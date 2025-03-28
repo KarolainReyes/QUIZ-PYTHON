@@ -13,7 +13,7 @@ Este programa de Python que permite encontrar dos tipos especiales de números p
 
 1. [Funciones](#funciones)
 2. [Instalacion](#instalacion)
-3. [Uso](#uso)
+3. [Tecnologias](#tecnologias)
 4. [Contribución](#contribucion)
 5. [Licencias](#licencias)
 6. [Autor](#autor)
