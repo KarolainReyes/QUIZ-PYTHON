@@ -7,6 +7,8 @@ Este programa de Python que permite encontrar dos tipos especiales de números p
 
 **Números primos palindrómicos:** Son números primos que además se leen igual de izquierda a derecha y de derecha a izquierda. Por ejemplo, 131 y 757 son primos palindrómicos porque cumplen ambas condiciones.
 
+------------------------------------------------------------------------------------------------------------------------
+
 ## 🖌️ Tabla de Contenidos
 
 1. [Funciones](#funciones)
@@ -16,6 +18,8 @@ Este programa de Python que permite encontrar dos tipos especiales de números p
 5. [Licencias](#licencias)
 6. [Autor](#autor)
 7. [Agradecimientos](#agradecimientos)
+
+------------------------------------------------------------------------------------------------------------------------
 
 ## ⛏️ Funciones
 
@@ -27,7 +31,7 @@ Opción 2: Encontrar y mostrar números primos palindrómicos en un rango dado.
 
 Opción 3: Salir del programa.
 
-
+------------------------------------------------------------------------------------------------------------------------
 
 ## 📥 Instalación
 
@@ -35,7 +39,7 @@ Sigue estos pasos para instalar el proyecto en tu entorno local.
 
 ### 🔧 Requisitos previos
 
-- Lista de requisitos previos: Python
+- Lista de requisitos previos: Python 3.x o superior.
 
 ### 📋 Pasos de instalación
 
@@ -51,18 +55,17 @@ Sigue estos pasos para instalar el proyecto en tu entorno local.
     ```bash
     npm install  # o el comando según el gestor de paquetes que uses
     ```
+------------------------------------------------------------------------------------------------------------------------
 
-## 💡 Uso
+## 🛡️ Tecnologías
 
-Después de instalar el proyecto, puedes seguir estos pasos para ejecutarlo:
+- **Python 3.x**: Lenguaje de programación principal.
+  
+- **Librería `json`**: Para almacenar los productos en formato JSON de forma persistente.
 
-1. Inicia la aplicación:
-    ```bash
-    npm start  # o el comando según tu proyecto
-    ```
-2. Accede a [http://localhost:3000](http://localhost:3000) en tu navegador.
+------------------------------------------------------------------------------------------------------------------------
 
-## Contribución 
+## 📚 Contribución 
 
 Si deseas contribuir a este proyecto, sigue estos pasos:
 
@@ -74,19 +77,21 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 4. Abre un Pull Request detallando tus cambios.
 
-## Licencia
+------------------------------------------------------------------------------------------------------------------------
+
+## 🔗 Licencia
 Este proyecto está bajo la licencia MPL - 2.0 . Consulta el archivo LICENSE para más detalles.
 
-## Autor
+------------------------------------------------------------------------------------------------------------------------
+
+## 👩‍💻 Autor
 
 Karolain Huerfano Reyes - reyeskarol0412@gmail.com
 
-## Agradecimientos
+------------------------------------------------------------------------------------------------------------------------
+
+## 🫶 Agradecimientos
 
 Agradecemos a todas las personas que contribuyeron y apoyaron en el desarrollo de este proyecto.
-
-
-
-
 
 https://github.com/KarolainReyes
